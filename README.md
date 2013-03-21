@@ -9,7 +9,7 @@ My Vim configuration files. Originally forked from user [@reu](http://github.com
 ## Instalation
 
 1. `git clone https://github.com/predoff/dotfiles ~/.dotfiles`
-2. `git clone https://github.com/gmarik/vundle.git ~/.dotiles/vimfiles/bundle/vundle`
+2. `git clone https://github.com/gmarik/vundle.git ~/.dotfiles/vimfiles/bundle/vundle`
 3. `cd ~/.dotfiles`
 4. `make install`
 5. Run Vim and type `:BundleInstall`

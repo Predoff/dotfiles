@@ -1,7 +1,7 @@
 ## What the fuck is that?
 
-This files allow you to costumize your nerdery. Change how your prompt looks, set some aliases, set some 
-configurations to Vim and some other things.
+This files allow you to costumize your nerdery. Change how your prompt looks, set aliases, set 
+configurations to Vim and many other things.
 
 ### Oh My ZSH
 
@@ -16,8 +16,8 @@ My Vim configuration files. Originally forked from user [@reu](http://github.com
 
 1. Download this repository to your computer or clone using: `git clone git://github.com/Predoff/dotfiles.git`
 2. Into repository folder execute command: `make install`
-3. git clone https://github.com/gmarik/vundle.git ~/.vim/bundle/vundle`
-4. Run Vim and type `:BundleInstall`
+3. Then, `git clone https://github.com/gmarik/vundle.git ~/.vim/bundle/vundle`
+4. Finally, run Vim and type `:BundleInstall`
 
 Vim tip: Also, if you want to unleash the full beauty of powerline, 
 you will need to install a custom patched font.

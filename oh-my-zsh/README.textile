@@ -1,7 +1,0 @@
-h2. Oh My ZSH
-
-This is my ZSH config, you can check "zsh template":https://github.com/Predoff/oh-my-zsh/blob/master/templates/predoff.zsh-template I've created.
-
-h3. Want know more about this project?
-
-Visit original repo: "Oh My ZSH":https://github.com/robbyrussell/oh-my-zsh/
